@@ -1,7 +1,8 @@
 // 문자열 타입
 let string = '안녕하세요';
 console.log(string);
-
+string = `안녕!`;
+console.log(string);
 // 이스케이프 표현
 console.log('\u09AC');
 
